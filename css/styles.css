@@ -14,3 +14,8 @@ a:link {
 	display: inline-block;
 	font-size: 20px;
 }
+
+#footer, #footer a:link {
+	clear: both;
+	font-size: 12px;
+}
